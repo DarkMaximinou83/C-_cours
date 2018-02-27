@@ -1,0 +1,7 @@
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\bin\Debug\Library.dll
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\bin\Debug\Library.pdb
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\maxim\RiderProjects\isen.Dotnet2\ConsoleApp\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
